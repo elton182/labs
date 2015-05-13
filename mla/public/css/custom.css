@@ -1,0 +1,74 @@
+@media (min-width: 992px){
+
+  /* ...larger screen styles go here... */
+
+  .wrapper {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .sidebar, .content {
+      float: none;
+  }
+
+  .sidebar {
+    width: 31.25%;
+    margin-right: 2.08334%;
+  }
+
+  .content {
+    width: 80%;
+    margin: 0 auto;    
+  } 
+
+  .menu {
+    width: 80%;
+    margin: 0 auto;        
+  } 
+
+  input {
+    display: inline;
+    width: 80%;
+  }
+
+  .container{
+    background-color: #FDFDFD;
+  }
+
+  body{
+      padding-top: 40px;
+      padding-bottom: 40px;
+      background-color: #FDFDFD;
+  }
+  .footer{
+    padding: 40px;
+  }
+
+  th{
+    background-color: #2196F3;
+    color: #fff;
+  }
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media (max-device-width: 320px){
+/* Styles */
+  .content {
+    width: 320px;
+    margin: 0 auto;
+
+  } 
+  .table {
+    font-size: 12;
+
+  }
+  .empresa{
+    font-size: 30;
+    font-weight: bold;
+  }
+  .title{
+    font-size: 15;
+    font-weight: bold;    
+  }
+}

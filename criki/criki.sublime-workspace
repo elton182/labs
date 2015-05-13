@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"App",
+				"AppController"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"src",
+				"JavaScript"
+			],
+			[
+				"n",
+				"nsaldo"
+			],
+			[
+				"new",
+				"new_saldo"
+			],
+			[
+				"enco",
+				"utf8_encode"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"print_",
+				"print_r"
+			],
+			[
+				"u",
+				"userId"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/View/Layouts/default.ctp",
+			"settings":
+			{
+				"buffer_size": 2360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/View/Users/register.ctp",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controller/UsersController.php",
+			"settings":
+			{
+				"buffer_size": 3463,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controller/AppController.php",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controller/PagesController.php",
+			"settings":
+			{
+				"buffer_size": 1935,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/criki",
+		"/var/www/html/criki/app",
+		"/var/www/html/criki/app/Config",
+		"/var/www/html/criki/app/Controller",
+		"/var/www/html/criki/app/View",
+		"/var/www/html/criki/app/View/Layouts",
+		"/var/www/html/criki/app/View/Pages",
+		"/var/www/html/criki/app/View/Users"
+	],
+	"file_history":
+	[
+		"/var/www/html/ecomerce/app/View/Admin/products.ctp",
+		"/var/www/html/ecomerce/app/View/Admin/product_edit.ctp",
+		"/var/www/html/ecomerce/app/Controller/AdminController.php",
+		"/var/www/html/ecomerce/app/Controller/AppController.php",
+		"/var/www/html/ecomerce/app/Config/bootstrap.php~",
+		"/var/www/html/ecomerce/app/View/Products/product_edit.ctp",
+		"/var/www/html/ecomerce/app/Controller/UsersController.php",
+		"/var/www/html/despesas/app/Controller/UsersController.php",
+		"/var/www/html/ecomerce/app/View/Layouts/admin.ctp",
+		"/var/www/html/ecomerce/app/View/Admin/index.ctp",
+		"/var/www/html/ecomerce/app/Controller/Component/AdminController.php",
+		"/var/www/html/ecomerce/app/View/Users/add.ctp",
+		"/var/www/html/ecomerce/app/Controller/AppController.php~",
+		"/var/www/html/criki/app/View/Pages/home.ctp",
+		"/var/www/html/criki/app/View/Layouts/default.ctp",
+		"/var/www/html/ecomerce/app/View/Users/login.ctp",
+		"/var/www/html/ecomerce/app/View/Layouts/default.ctp",
+		"/var/www/html/ecomerce/app/Controller/CategoriesController.php",
+		"/var/www/html/ecomerce/app/Model/User.php",
+		"/var/www/html/ecomerce/app/Controller/CartsController.php",
+		"/var/www/html/ecomerce/lib/Cake/Controller/Component/AuthComponent.php",
+		"/var/www/html/ecomerce/app/View/Users/signup.ctp",
+		"/var/www/html/ecomerce/app/Controller/ProductsController.php",
+		"/var/www/html/who.php",
+		"/var/www/html/despesas/app/View/Users/view.ctp",
+		"/var/www/html/despesas/app/View/Users/add.ctp",
+		"/var/www/html/despesas/app/Model/User.php",
+		"/var/www/html/ecomerce/app/View/Products/search.ctp",
+		"/var/www/html/ecomerce/app/View/Products/index.ctp",
+		"/var/www/html/ecomerce/app/View/Categories/login.ctp",
+		"/var/www/html/ecomerce/app/Controller/UserController.php",
+		"/var/www/html/ecomerce/app/webroot/css/custom.css",
+		"/var/www/html/ecomerce/app/View/Categories/index.ctp",
+		"/var/www/html/ecomerce/app/Controller/Component/LoginController",
+		"/var/www/html/ecomerce/app/Config/bootstrap.php",
+		"/var/www/html/ecomerce/app/View/Carts/view.ctp",
+		"/var/www/html/ecomerce/app/Model/Cart.php",
+		"/var/www/html/ecomerce/app/Config/database.php",
+		"/var/www/html/ecomerce/app/Locale/default.pot",
+		"/var/www/html/ecomerce/app/Controller/CategorysController.php",
+		"/var/www/html/ecomerce/app/Model/Product.php",
+		"/var/www/html/ecomerce/app/Model/Category.php",
+		"/var/www/html/ecomerce/app/View/Products/view.ctp",
+		"/var/www/html/ecomerce/app/Controller/CategoryController.php",
+		"/var/www/html/ecomerce/app/Controller/Component/CategoryController.php",
+		"/var/www/html/ecomerce/app/webroot/.htaccess",
+		"/var/www/html/ecomerce/.htaccess",
+		"/var/www/html/ecomerce/app/View/Pages/home.ctp",
+		"/var/www/html/ecomerce/app/Config/routes.php",
+		"/var/www/html/ecomerce/app/Config/core.php",
+		"/var/www/html/phpoo/saldo.php",
+		"/var/www/html/despesas/app/View/Layouts/default.ctp",
+		"/var/www/html/despesas/app/View/Elements/navbar.ctp",
+		"/var/www/html/despesas/app/View/Projetos/index.ctp",
+		"/var/www/html/despesas/app/View/Projetos/add.ctp",
+		"/var/www/html/despesas/app/Controller/ProjetosController.php",
+		"/var/www/html/despesas/app/View/Projetos/edit.ctp",
+		"/var/www/html/despesas/app/View/Users/login.ctp",
+		"/var/www/html/despesas/app/webroot/css/custom.css",
+		"/var/www/html/despesas/app/webroot/css/bootstrap.css",
+		"/var/www/html/despesas/app/View/Viagems/add.ctp",
+		"/var/www/html/despesas/app/View/Viagems/index.ctp",
+		"/var/www/html/despesas/app/View/Viagens/add.ctp",
+		"/var/www/html/despesas/app/View/Viagens/admin_edit.ctp",
+		"/var/www/html/despesas/app/View/Viagens/admin_add.ctp",
+		"/var/www/html/despesas/app/View/Users/index.ctp",
+		"/var/www/html/despesas/app/View/Pages/home.ctp",
+		"/var/www/html/despesas/app/View/Users/edit.ctp",
+		"/var/www/html/despesas/app/Controller/AppController.php",
+		"/var/www/html/despesas/app/Controller/PagesController.php",
+		"/var/www/html/despesas/app/Config/database.php",
+		"/var/www/html/despesas/app/View/Elements/notifications.ctp",
+		"/var/www/html/despesas/app/Config/bootstrap.php",
+		"/var/www/html/despesas/app/Config/core.php",
+		"/media/elton/Dados/Projetos/Controle de Viagens/permisao apptmp",
+		"/home/elton/Documentos/assinatura.html",
+		"/var/www/html/cliente/app/View/Layouts/default.ctp",
+		"/var/www/html/cliente/app/Controller/ClientesController.php",
+		"/var/www/html/cliente/app/Locale/eng/LC_MESSAGES/empty",
+		"/media/elton/Dados/Totvs/Projetos/Elekeiroz/atualizacao totvs 12/Atualizacao_especificos/ems2/esp/esge001rp.p",
+		"/var/www/html/cliente/app/View/Clientes/index.ctp",
+		"/var/www/html/cliente/app/Config/core.php",
+		"/var/www/html/cliente/app/Controller/AppController.php",
+		"/var/www/html/cliente/app/View/Users/login.ctp",
+		"/var/www/html/cliente/app/Model/User.php",
+		"/var/www/html/cliente/app/Controller/UsersController.php",
+		"/var/www/html/cliente/app/Model/Behavior/empty",
+		"/var/www/html/cliente/app/Model/Datasource/User.php",
+		"/var/www/html/cliente/app/Config/database.php.default",
+		"/var/www/html/cliente/app/Config/routes.php",
+		"/var/www/html/blog/app/Config/routes.php",
+		"/var/www/html/cliente/Console/cake.php",
+		"/var/www/html/cliente/Config/database.php.default",
+		"/var/www/html/blog/.htaccess",
+		"/var/www/html/blog/app/Controller/CssController.php",
+		"/var/www/html/blog/app/Config/core.php",
+		"/var/www/html/blog/app/View/Posts/index.ctp",
+		"/var/www/html/blog/app/Config/database.php",
+		"/var/www/html/blog/app/Model/Post.php",
+		"/var/www/html/blog/app/Controller/PostsController.php",
+		"/var/www/html/blog/app/View/Posts/views.ctp",
+		"/var/www/html/blog/app/Config/database.php.default",
+		"/etc/php5/apache2/php.ini",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/var/www/html/estoqDesenv/advanced/frontend/views/site/login.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/models/ContactForm.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/views/site/index.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/views/site/signup.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/models/SignupForm.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/models/ResetPasswordForm.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/web/index.php",
+		"/var/www/html/estoqDesenv/advanced/frontend/config/main.php",
+		"/var/www/html/estoqDesenv/advanced/common/config/main-local.php",
+		"/var/www/html/estoqDesenv/index.php",
+		"/var/www/html/estoqDesenv/teste.php",
+		"/var/www/html/estoqDesenv/composer.phar"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flash",
+			"render",
+			"placeholder",
+			"helper",
+			"debu",
+			"authenticate",
+			"constru",
+			"public fun",
+			"authenticate",
+			"functionauthenticate",
+			"function authenticate",
+			"authenticate",
+			"identify",
+			"login",
+			"'];",
+			"set",
+			"__",
+			"langua",
+			"render",
+			"		\n",
+			":",
+			"::",
+			"html",
+			"helper",
+			"font-si",
+			"font",
+			"media",
+			"sr-only",
+			"viagems",
+			"login",
+			"footer",
+			"scri",
+			"navbar",
+			"content",
+			"menu",
+			"’",
+			"load",
+			"login",
+			"admin",
+			"blog",
+			"directory",
+			"httpd",
+			"LoadModule",
+			"loadmodule",
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"value",
+			"viagens'",
+			"viagens",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/View/Layouts/default.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1752,
+								1752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/View/Users/register.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Controller/UsersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Controller/AppController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1176,
+								1176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Controller/PagesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1142,
+								1142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "criki.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
